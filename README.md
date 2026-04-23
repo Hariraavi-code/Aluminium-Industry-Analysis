@@ -42,4 +42,4 @@ Worked as part of a 3-member team to analyze aluminium production processes and 
 
 ## Documentation
 - `Aluminium_Industry_Project.pdf` — Full report
-- `https://drive.google.com/file/d/1XagZvE_U1uuutaw1gxaG5Mx1dsE2ZBT2/view?usp=sharing` — Presentation slides
+- "https://drive.google.com/file/d/1XagZvE_U1uuutaw1gxaG5Mx1dsE2ZBT2/view?usp=sharin" — Presentation slides
