@@ -41,5 +41,4 @@ The study integrates materials science fundamentals with process-level understan
 Worked as part of a 3-member team to analyze aluminium production processes and sustainability challenges.
 
 ## Documentation
-- `Aluminium_Industry_Project.pdf` — Full report
 - "https://drive.google.com/file/d/1XagZvE_U1uuutaw1gxaG5Mx1dsE2ZBT2/view?usp=sharin" — Presentation slides
